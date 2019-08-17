@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "276619211298",
+    "firebase_url": "https://prochatlite.firebaseio.com",
+    "project_id": "prochatlite",
+    "storage_bucket": "prochatlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276619211298:android:4ccbba412034d5ab",
+        "android_client_info": {
+          "package_name": "com.zubisoft.prochat.prochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276619211298-plve8edg1cau6ppk62sgqg38eu9j8298.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubisoft.prochat.prochat",
+            "certificate_hash": "7fb0ad9661a4ae83c8ea7491588fd15d127ce9e3"
+          }
+        },
+        {
+          "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY5aSgkI5_AHjUZ12oRawVM1n8QbX0sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276619211298:android:2ce29492f4680e7b",
+        "android_client_info": {
+          "package_name": "com.zubisoft.solutions.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276619211298-9ucoc2oderen4jmo580ghs6klonqcdr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubisoft.solutions.transportdisplay",
+            "certificate_hash": "7fb0ad9661a4ae83c8ea7491588fd15d127ce9e3"
+          }
+        },
+        {
+          "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY5aSgkI5_AHjUZ12oRawVM1n8QbX0sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276619211298:android:0751c010722c84b7",
+        "android_client_info": {
+          "package_name": "com.zubisoft.solutions.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276619211298-h9sri5t73l30ur5rhdcm7rrlq2oguh7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubisoft.solutions.transporttracker",
+            "certificate_hash": "7fb0ad9661a4ae83c8ea7491588fd15d127ce9e3"
+          }
+        },
+        {
+          "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY5aSgkI5_AHjUZ12oRawVM1n8QbX0sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276619211298-m7oqn137bsjh5oufbngi48er3vcp55oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
